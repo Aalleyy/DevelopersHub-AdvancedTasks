@@ -23,7 +23,7 @@ Built a reusable, production-ready machine learning pipeline using Scikit-learn'
 
 ---
 
-### **Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular Data** [Link to Repository](https://github.com/Aalleyy/MultiModel-House-Price-Prediction) 
+### **Task 3: Multimodal ML – Housing Price Prediction** [Link to Repository](https://github.com/Aalleyy/MultiModel-House-Price-Prediction) 
 
 Built a **multimodal machine learning model** to predict house prices using both:
 
